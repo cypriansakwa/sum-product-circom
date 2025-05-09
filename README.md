@@ -55,7 +55,12 @@ template SumAndProductCheck() {
 component main = SumAndProductCheck();
 ```
 ## Usage
+### Clone the repository
 
+```bash
+git clone https://github.com/cypriansakwa/sum-product-circom.git
+cd sum-product-circom
+```
 ### Compile the circuit:
 ```bash
 circom sum_and_product.circom --r1cs --wasm --sym
