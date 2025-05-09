@@ -1,0 +1,8 @@
+1,1,0,main.values[0]
+2,2,0,main.values[1]
+3,3,0,main.values[2]
+4,4,0,main.expected_sum
+5,5,0,main.expected_product
+6,-1,0,main.sum
+7,6,0,main.product1
+8,-1,0,main.product
